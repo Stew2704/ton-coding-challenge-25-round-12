@@ -15,8 +15,8 @@ https://t.me/toneachat
 课件地址：https://ton-org.notion.site/TON-NFT-2-0-2655274bd2cf807291edda0280c42e59
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
-2. 你的主网 TON 钱包地址 = ？
+1. 你的 Telegram 用户名 = @wxrkxrzz
+2. 你的主网 TON 钱包地址 = UQDKTP3KR_ZSBiKGrP3pj-FwZ91B09wwvDOA2u8OvXFQuhtj
 
 
 ## 任务：构思 NFT 版权方案
@@ -30,6 +30,8 @@ https://t.me/toneachat
 1. 描述你的方案
 2. 你的方案有什么优势？
 3. 你的方案有什么取舍和不足？
-
+描述：NFT 中记录每次授权与使用情况，形成版权使用链路。
+优势：全程可追溯，避免盗用。
+不足：需要额外的链下验证。
 
 
